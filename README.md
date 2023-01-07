@@ -9,7 +9,7 @@
 
 <img src="https://raw.githubusercontent.com/trial-pyth/Redux-Library-Account-JWT/master/img/login-jwt-token.PNG" alt="" width=600 height=300 />
 
-## __User can login and logout with their creentials and their `JWT Access Token` is stored until they are logged out__
+## __Users can login and logout with their credentials and their `JWT Access Token` is stored until they are logged out__
 
 <img src="https://raw.githubusercontent.com/trial-pyth/Redux-Library-Account-JWT/master/img/login-logout.gif" alt="" width=600 height=300 />
 
