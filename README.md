@@ -5,7 +5,7 @@
 
 <img src="https://github.com/trial-pyth/Redux-Library-Account-JWT/blob/master/img/register-login.gif?raw=true" alt="signup" width=750 height=400/>
 
-## __Once a user logd in to their account a JWT token is stored as a `cookie`. This cookie is used to verify the users id and authorize actions__
+## __Once a user has logged in to their account a JWT token is stored as a `cookie`. This cookie is used to verify the users id and authorize actions__
 
 <img src="https://raw.githubusercontent.com/trial-pyth/Redux-Library-Account-JWT/master/img/login-jwt-token.PNG" alt="" width=600 height=300 />
 
