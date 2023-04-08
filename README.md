@@ -3,7 +3,7 @@
 
 ## __🔑Users need to signup before adding books to their library__
 
-<img src="https://github.com/trial-pyth/Redux-Library-Account-JWT/blob/master/img/register-login.gif?raw=true" alt="signup" width=750 height=400/><sub><sup>⌛ Please wait until GIF loads</sup></sub>
+<img src="https://github.com/trial-pyth/Redux-Library-Account-JWT/blob/master/img/register-login.gif?raw=true" alt="signup" width=500 height=250/><sub><sup>⌛ Please wait until GIF loads</sup></sub>
 
 ## __Once a user has logged in to their account a JWT token is stored as a `cookie`. This cookie is used to verify the users id and authorize actions__
 
